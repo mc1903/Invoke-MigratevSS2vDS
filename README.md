@@ -3,7 +3,7 @@ A PowerShell script to migrate an ESXi Host from a vSS to a vDS
 
 Example Usage:
 
-```
+```powershell
 Remove-Variable -Name * -ErrorAction SilentlyContinue
 Clear-Host
 
